@@ -1,0 +1,12 @@
+.btn_logout{
+    background-color:grey;
+    margin-left: 100px;
+    display: flex;
+    width: 80px;
+    height: 40px;
+    cursor:pointer;
+    align-items: center;
+    padding: 10;
+    
+    
+}
